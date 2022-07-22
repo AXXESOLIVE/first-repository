@@ -1,0 +1,11 @@
+int=numeros enteros infinitos
+float=numeros decimales infinitos
+booleano=V/F
+char=cualquier cosa que se pueda ingresar desde el teclado y ocupe solo un espacio
+Constante=pi,gravedad,euler,fibonacci.Constante
+var =algo que cambia, puede almacenar elementos, que dentro de estos elementos pueden haber otros elemente 
+dicciónario= llave, elemento: llave.value = elemento
+listas= tipo de variable que contiene otras variables o elementos
+string = lista de caracteres.
+string s= hola
+lista char =["h","o","l","a"]
